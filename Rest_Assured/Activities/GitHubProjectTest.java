@@ -16,7 +16,7 @@ import static org.hamcrest.Matchers.lessThan;
 
 public class GitHubProjectTest {
     //SSH Key to test with
-    String sshKey = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID4/ITi9bOu+iYWBpy3YU/QouRuEpW9kcHIGS7vvHP6x";
+    String sshKey = "ssh-ed25519 AAAAAA1lZDI1NTE5AaCAAAID4/ITi9bOu+iYWBpy3YU/QouRuEpW9kcHIGS7vvHP6x";
     int sshKeyId;
     //Request Specification
     RequestSpecification requestSpec = new RequestSpecBuilder().
